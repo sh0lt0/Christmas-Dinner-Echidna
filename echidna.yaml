@@ -1,0 +1,7 @@
+
+testMode: "assertion"
+prefix: "crytic_"
+coverage: true
+corpusDir: "echidna"
+filterFunctions: []
+cryticArgs: ["--foundry-compile-all"]
